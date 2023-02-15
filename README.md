@@ -17,4 +17,4 @@ To get started with the course, you will need the following:
 
 ### 💯 You will need
 
- ![image](IMAGE 1 EV3.png)
+ ![image](1EV3.png)
