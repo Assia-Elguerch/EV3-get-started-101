@@ -51,3 +51,11 @@ To get started with the course, you will need the following:
 > We have 2 motors plugged in B and C and Ultrasonic sensor and Color sensor plugged in 1 and 4 .
 
 <img src="6EV3.png" width="400">
+
+
+# 🌟 Examples Of the most common Robot Design 
+
+
+🤖 In our EV3 training course, we'll be working with some amazing robots! First up is DroidBot 2.0 🤖, a versatile robot with advanced sensing and movement capabilities. Next, we have Endeavor 🚀, a robot designed for exploration and discovery. We'll also be working with Driving Bas 3 🚗, a speedy robot with impressive maneuverability, and Enterprise 🏭, a robot designed for industrial automation. And let's not forget about Discovery 🔍, a robot equipped with sensors to detect and analyze its environment. Each of these robots has its own unique features and challenges
+
+<img src="robot design examples.png" width="500">
