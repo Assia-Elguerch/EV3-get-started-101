@@ -17,7 +17,7 @@ To get started with the course, you will need the following:
 
 ### 💯 You will need
 
-<img src="1EV3.png" width="300">
+<img src="1EV3.png" width="400">
 
 ### 💯 try to understand these images to follow the instructions
 
@@ -25,10 +25,22 @@ To get started with the course, you will need the following:
 
 > Collect the items and attach the two motors
 
-<img src="2EV3.png" width="300">
+<img src="2EV3.png" width="400">
 
 🚩Two
 
 > Build this object to be a support for the robot
 
-<img src="3EV3.png" width="300">
+<img src="3-EV3.png" width="400">
+
+🚩Three
+
+> Build this object to be a back support for the next object that we will work on!
+
+<img src="4EV3.png" width="400">
+
+🚩Four
+
+> Build this object you will need it to make the movement super easy
+
+<img src="5EV3.png" width="400">
