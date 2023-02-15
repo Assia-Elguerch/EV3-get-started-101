@@ -29,6 +29,6 @@ To get started with the course, you will need the following:
 
 🚩Two
 
-> Collect the items and attach the two motors
+> Build this object to be a support for the robot
 
-<img src="2EV3.png" width="300">
+<img src="3EV3.png" width="300">
