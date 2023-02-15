@@ -67,3 +67,19 @@ To get started with the course, you will need the following:
 <img src="PLUG.png" width="500">
 
 <img src="items.jpg" width="500">
+
+# 🥽 Port View 
+
+The Port View in the EV3 programming software is a graphical interface that allows you to monitor and control the sensors and motors connected to your robot's ports. 🤖 When you open the Port View, you'll see a grid with rows for each sensor port and columns for each motor port, and you can click on each cell to select the corresponding device. 🚀 Once you've selected a device, you can see information about its current state, such as its sensor reading or motor power level, and you can also send commands to the device, such as setting a motor to a specific speed or direction. 🌟 The Port View is a useful tool for debugging and testing your robot, as you can see real-time data from your sensors and motors and make adjustments as needed. It can also be used to create custom sensor and motor configurations, such as using a touch sensor to control the speed of a motor. 🌟 Overall, the Port View is a powerful feature of the EV3 programming software that can help you create more sophisticated and responsive robots. 🤖🚀🌟
+
+<img src="portview.jpg" width="500">
+
+## 🏆 Challenges are coming soon in this repository !
+
+📍Source https://ev3lessons.com/en/
+
+
+<img src="Logo_Lego_Mindstorms_EV3.png" width="100">
+
+
+
