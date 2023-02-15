@@ -44,3 +44,10 @@ To get started with the course, you will need the following:
 > Build this object you will need it to make the movement super easy
 
 <img src="5EV3.png" width="400">
+
+🚩Five
+
+> We added the Robot, mais object, and the sensors.. the motors are plugged in the Ports A B C D and sensors in the ports 1 2 3 4 
+> We have 2 motors plugged in B and C and Ultrasonic sensor and Color sensor plugged in 1 and 4 .
+
+<img src="6EV3.png" width="400">
