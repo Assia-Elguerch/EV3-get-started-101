@@ -59,3 +59,11 @@ To get started with the course, you will need the following:
 🤖 In our EV3 training course, we'll be working with some amazing robots! First up is DroidBot 2.0 🤖, a versatile robot with advanced sensing and movement capabilities. Next, we have Endeavor 🚀, a robot designed for exploration and discovery. We'll also be working with Driving Bas 3 🚗, a speedy robot with impressive maneuverability, and Enterprise 🏭, a robot designed for industrial automation. And let's not forget about Discovery 🔍, a robot equipped with sensors to detect and analyze its environment. Each of these robots has its own unique features and challenges
 
 <img src="robot design examples.png" width="500">
+
+# 🚧 Ports, Sensors
+
+🔌 When building and programming robots with the EV3 system, it's important to know which ports to use for different sensors and motors. The EV3 brick has four motor ports, labeled A, B, C, and D, and four sensor ports, labeled 1, 2, 3, and 4. 🤖 To build a basic robot, you'll need to plug in two large motors to the A and D ports to create a base drive, and you can use the other ports to add additional motors or sensors to your robot. 🚀 There are many different types of sensors available for the EV3, including ultrasonic sensors, color sensors, gyro sensors, touch sensors, and more. Each sensor has its own unique capabilities and can be used to detect and measure different aspects of the robot's environment. 🌟 By understanding the different ports and sensors, you'll be able to design and program robots with a wide range of capabilities and applications. 🔌🤖🚀🌟
+
+<img src="PLUG.png" width="500">
+
+<img src="items.jpg" width="500">
