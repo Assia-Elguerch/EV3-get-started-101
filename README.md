@@ -17,4 +17,6 @@ To get started with the course, you will need the following:
 
 ### 💯 You will need
 
- ![image](1EV3.png)
+<img src="1EV3.png" width="300">
+
+### 💯 try to understand these images to follow the instructions
