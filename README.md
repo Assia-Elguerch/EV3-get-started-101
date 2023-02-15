@@ -1,4 +1,4 @@
-# 🤖 EV3 Robot Design Course
+# 🤖 EV3 Robot Design & Essentials + Fundamentals + Challenges 
 
 ## Description
 
