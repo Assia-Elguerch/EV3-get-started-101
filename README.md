@@ -20,3 +20,15 @@ To get started with the course, you will need the following:
 <img src="1EV3.png" width="300">
 
 ### 💯 try to understand these images to follow the instructions
+
+🚩One
+
+> Collect the items and attach the two motors
+
+<img src="2EV3.png" width="300">
+
+🚩Two
+
+> Collect the items and attach the two motors
+
+<img src="2EV3.png" width="300">
