@@ -1,3 +1,5 @@
+<img src="Logo_Lego_Mindstorms_EV3.png" width="600">
+
 # 🤖 EV3 Robot Design & Essentials + Fundamentals + Challenges 
 
 ### Description
@@ -79,7 +81,7 @@ The Port View in the EV3 programming software is a graphical interface that allo
 📍Source https://ev3lessons.com/en/
 
 
-<img src="Logo_Lego_Mindstorms_EV3.png" width="100">
+
 
 
 
